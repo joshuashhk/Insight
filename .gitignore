@@ -1,0 +1,28 @@
+# 敏感信息
+.env
+feishu-drive/
+notes/confidential/
+notes/archive/
+
+# Claude Code 本地配置
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# 生成文件
+output/
+
+# 数据目录（含公司财务数据和原始PDF）
+stock/
+industry/
+
+# Node
+package-lock.json
+
+# Obsidian
+.obsidian/
+
+# macOS
+.DS_Store
