@@ -10,6 +10,8 @@ A buy-side equity research system powered by Claude Code. It implements a three-
 
 The most critical investment hypotheses are qualitative — they cannot be derived automatically from data. They require conversation to clarify and stress-test. Financial analysis and tracking gather raw material, but the leap from material to insight only happens through discussion. Discussion is the production step, not an afterthought.
 
+**[Walkthrough: Researching a Stock from Scratch](docs/walkthrough.md)** — Full example using Foxconn Industrial Internet (601138).
+
 ## Quick Start
 
 ### 1. Requirements

@@ -248,7 +248,3 @@ python3 skills/continuous_tracking/fetch_data.py <股票代码>
 - 开头包含标题、股票代码、报告日期、财报分析日期
 - 各章节之间用分隔线 `---` 分隔
 - 保存到 `stock/{股票代码}/memory/持续跟踪_YYYYMMDD.md`
-
-## 飞书同步
-
-飞书同步为手动操作，报告生成后提醒 Joshua 手动执行同步。
